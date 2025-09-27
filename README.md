@@ -3,16 +3,16 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm Aisha. I'm a Computer Engineering student at the University of Guelph. I work on software and hardware development projects, with experience in Java, C, and Python.
+👋 Hey, I'm Aisha. I'm a Computer Engineering student at the University of Guelph. I am passionate about working on software and hardware development projects, with experience in Java, C, and Python.
 
 - 📍 Location: Toronto, ON
 - 🎓 Education: University of Guelph
 - 📅 Hacking Since: High school
 
 ## Featured Projects
-- 🎲 Java Game — A simple console-based game built in Java. (Java) — github.com/aisha/java-game
-- 🛠️ C Sensor Logger — A hardware project for logging sensor data using C. (C) — github.com/aisha/c-sensor-logger
-- 🤖 Python Data Analyzer — A Python tool for analyzing datasets. (Python) — github.com/aisha/python-data-analyzer
+- 🎲 Crypto Magic — A simple encrypting decrypting program. (C) — github.com/AishaZAhmed/CryptoMagic
+- 🛠️ Child-Care-Center— A hardware project for logging sensor data using C. (Java) — github.com/AishaZAhmed/Child-Care-Center---Java
+- 🤖 Hangman — A a fun spin on the classic game developed for CS50 final project . (Python)
 
 ## Tech & Interests
 - 🧰 Languages: Java, C, Python
