@@ -11,7 +11,8 @@
 
 ## Featured Projects
 - 🎲 Crypto Magic — A simple encrypting decrypting program. (C) — github.com/AishaZAhmed/CryptoMagic
-- 🛠️ Child-Care-Center— A hardware project for logging sensor data using C. (Java) — github.com/AishaZAhmed/Child-Care-Center---Java
+- 🛠️ Child-Care-Center— Developed a program to help parents/guardians find a suitable child care center in the Peel region based on data
+extracted from Statistics Canada. (Java) — github.com/AishaZAhmed/Child-Care-Center---Java
 - 🤖 Hangman — A a fun spin on the classic game developed for CS50 final project . (Python)
 
 ## Tech & Interests
